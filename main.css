@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Iceland&display=swap');
+
+body {
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 24%, rgba(0,212,255,1) 51%, rgba(255,0,232,1) 107%);
+font-family: "Iceland", sans-serif;
+color: aliceblue;
+font-size: 40px;
+text-decoration: none;
+}
+
+.cat {
+height: 200px;
+width: 300px;
+background-color: white;
+border: black 3px dashed;
+}
+
+button {
+font-size: 10;
+width: 100px;
+height: 50px;
+
+padding-left: 20px;
+margin-top: 20px;
+}
